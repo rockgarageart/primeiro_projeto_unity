@@ -10,6 +10,19 @@ Este projeto foi desenvolvido na Unity 6 utilizando Meta XR SDK para criação d
 
 O ambiente representa um treinamento gamificado de combate a incêndio para funcionários dentro de um contexto de Metaverso educacional.
 
+## Estrutura das Cenas
+
+O projeto contém duas cenas principais:
+
+* `primeiroprojeto.unity`
+
+  * versão inicial do ambiente VR básico
+
+* `projetoavancado.unity`
+
+  * versão interativa final contendo sistema de perguntas, abertura de portas, iluminação dinâmica e interação com o ambiente
+
+
 ## Objetivo
 
 O objetivo é criar uma experiência imersiva onde o usuário aprende através de desafios e interação com portas, perguntas e elementos visuais.
